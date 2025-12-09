@@ -20,4 +20,5 @@ I think I am going to need
     -    something that brings up something on the computer it is plugged into
 - LEDS LOTS OF LEDS I want it to light up like a christmas tree
 
-I think that this [E-Ink Display](https://www.waveshare.com/product/7.5inch-e-paper-hat-b.htm) would be cheaper and I gain an extra color. I don't know how to make a e ink driver and evreywhere I was looking while reaserching showed that it would probably be more expsenive and waste space. 
+I think that this [E-Ink Display](https://www.waveshare.com/product/7.5inch-e-paper-hat-b.htm) would be cheaper and I gain an extra color. I don't know how to make a e ink driver and evreywhere I was looking while reaserching showed that it would probably be more expsenive and waste space.
+[This will be usefull later](https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT_(B)_Manual#Working_With_Raspberry_Pi)
