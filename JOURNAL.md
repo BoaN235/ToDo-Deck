@@ -26,3 +26,13 @@ I think that this [E-Ink Display](https://www.waveshare.com/product/7.5inch-e-pa
 Around two hours of reaserch.
 
 I found the [Pico Version](https://www.waveshare.com/pico-epaper-7.5-b.htm) of it after spending an hour looking for how to get the other version to work. Its slightly cheaper too.
+
+### 5-8 Hours: I finished the pcb (I will have to test later tho)
+I added button inputs as keyboard switches a screen input and neopixel leds. 
+<img width="973" height="671" alt="image" src="https://github.com/user-attachments/assets/8502b79d-b782-4500-8470-c5b4ce0619e2" />
+
+I started the PCB desgin (THIS IS GONG TO CHANGE A LOT)
+
+<img width="456" height="458" alt="image" src="https://github.com/user-attachments/assets/ca7fa399-1d95-40b2-935c-7eeb862ee709" />
+<img width="984" height="643" alt="image" src="https://github.com/user-attachments/assets/dc85cb6d-f6b0-45c5-8053-7260bfd7fded" />
+
